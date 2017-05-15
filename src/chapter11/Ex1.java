@@ -8,18 +8,6 @@ import java.util.*;
  * @create：2017/5/9
  */
 
-class Gerbil {
-    private int gerbilNumber;
-
-    public Gerbil(int gerbilNumber) {
-        this.gerbilNumber = gerbilNumber;
-    }
-
-    public void hop() {
-        System.out.println("Gerbil " + gerbilNumber + " hops");
-    }
-
-}
 
 public class Ex1 {
     public static void main(String[] args) {
