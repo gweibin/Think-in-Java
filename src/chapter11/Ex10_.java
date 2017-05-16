@@ -5,5 +5,5 @@ package chapter11;
  * TOOD
  * Created by gweibin on 2017/5/12.
  */
-public class Ex10 {
+public class Ex10_ {
 }
